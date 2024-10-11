@@ -2,11 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MS Student,
+          <a href='https://stat.uchicago.edu/'>Statistics Department</a>, 
+          <a href='https://www.uchicago.edu/en'>University of Chicago</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yukai-yang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
