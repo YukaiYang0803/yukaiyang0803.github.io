@@ -3,17 +3,17 @@ layout: about
 title: about
 permalink: /
 subtitle: MS Student,
-          <a href='https://stat.uchicago.edu/'>Statistics Department</a>, 
-          <a href='https://www.uchicago.edu/en'>University of Chicago</a>
+  \n<a href='https://stat.uchicago.edu/'>Statistics Department</a>, 
+  \n<a href='https://www.uchicago.edu/en'>University of Chicago</a>
 
 profile:
   align: right
   image: yukai-yang.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
