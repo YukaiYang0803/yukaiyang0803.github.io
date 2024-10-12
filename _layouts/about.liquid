@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        News
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -59,7 +59,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+        Selected Publications
       </h2>
       <strong>*</strong> denotes equal contributions 
       {% include selected_papers.liquid %}
