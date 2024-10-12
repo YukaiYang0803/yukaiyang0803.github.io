@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS Student, <a href='https://stat.uchicago.edu/'>Statistics Department</a>, <a href='https://www.uchicago.edu/en'>University of Chicago</a>
 
@@ -24,11 +24,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am Yukai Yang, a 2nd year Master Student in Statistics at University of Chicago.<br><br>
-I recently work on Uncertainty Quantification for Large Language Models. My research interest lies in applying statistical tools to explain and understand foundation models. I am also interested in statistical learning theory, high-dimensional statistics, and random matrix theory.
+Hi there! I am Yukai Yang, a 2nd year Master Student in Statistics at University of Chicago.
 
-Prior to UChicago, I graduated with a BA in Data Science and Mathematics from New York University. During the time, I was fortunate to work with Tim Rudner and Marco Morucci on active learning and Bayesian ML.
+I recently work on Uncertainty Quantification for Large Language Models. My research interest lies in **applying statistical tools to explain and understand foundation models**, with a focus on high-dimensional statistics and random matrix theory.
 
-I am applying for a PhD in Stats/ML starting in 2025. Please contact me through email if you are interested in my research!
+Prior to UChicago, I obtained my Bachelor’s degree in Data Science and Mathematics at New York University. During the time, I was fortunate to work with [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) on active learning at the [Center for Data Science](https://cds.nyu.edu/).
 
-</strong>Contact:</strong> yy2949 [at] uchicago [dot] edu
+<!-- Outside of research, I enjoy swimming, badminton, and watching films. -->
+
+I am applying for a PhD in Stats/ML starting in 2025. Please feel free to reach out if you are interested in my research!
+
+**Contact:** yy2949 [at] uchicago [dot] edu
