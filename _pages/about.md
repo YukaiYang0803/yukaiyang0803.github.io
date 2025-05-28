@@ -26,12 +26,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi there! I am Yukai Yang, a 2nd year Master student in Statistics at UChicago.
 
-I recently work on Uncertainty Quantification for Large Language Models. My research interest lies in **applying statistical tools to understand foundation models**, with a focus on high-dimensional statistics and random matrix theory.
+I recently work on scientific machine learning, with a specific interest in AI4Bio. Previously, I have worked on Uncertainty Quantification for Large Language Models, fortunately advised by [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/). I also conducted research in AI Safety for Multi-agent System with Professor [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/index.html)'s lab at UCLA. Prior to UChicago, I graduated with a Bachelor’s degree (magna cum laude) in Data Science and Mathematics from New York University. 
+<!-- My research interest lies in **applying statistical tools to understand foundation models**, with a focus on high-dimensional statistics and random matrix theory. -->
 
-Prior to UChicago, I graduated with a Bachelor’s degree (magna cum laude) in Data Science and Mathematics from New York University. During the time, I was fortunate to work with [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) on active learning at the [Center for Data Science](https://cds.nyu.edu/).
+<!-- During the time, I was fortunate to work with [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/) on active learning at the [Center for Data Science](https://cds.nyu.edu/). -->
 
 <!-- Outside of research, I enjoy swimming, badminton, and watching films. -->
 
-I am applying for a PhD in Stats/ML starting in 2025. Please feel free to reach out if you are interested in my research!
+I am applying for a PhD in AI/ML starting in 2026. Please feel free to reach out if you are interested in my research!
 
 **Contact:** yy2949 [at] uchicago [dot] edu
