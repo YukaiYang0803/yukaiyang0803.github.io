@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi there! I am Yukai Yang, a 2nd year Master student in Statistics at UChicago.
+<!-- Hi there! I am Yukai Yang, a 2nd year Master student in Statistics at UChicago.
 
 I recently work on scientific machine learning, with a specific interest in AI4Bio. Previously, I have worked on Uncertainty Quantification for Large Language Models, fortunately advised by [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/). I also conducted research in AI Safety for Multi-agent System with Professor [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/index.html)'s lab at UCLA. Prior to UChicago, I graduated with a Bachelor’s degree (magna cum laude) in Data Science and Mathematics from New York University. 
 <!-- My research interest lies in **applying statistical tools to understand foundation models**, with a focus on high-dimensional statistics and random matrix theory. -->
@@ -33,6 +33,16 @@ I recently work on scientific machine learning, with a specific interest in AI4B
 
 <!-- Outside of research, I enjoy swimming, badminton, and watching films. -->
 
-I am applying for a PhD in AI/ML starting in 2026. Please feel free to reach out if you are interested in my research!
+<!-- I am applying for a PhD in AI/ML starting in 2026. Please feel free to reach out if you are interested in my research! -->
+
+<!-- **Contact:** yy2949 [at] uchicago [dot] edu -->
+
+Hi there! I am Yukai Yang. I am a researcher developing reliable and interpretable machine learning methods for AI for Biology, focusing on the intersection of representation learning and uncertainty quantification. I received my M.S. in Statistics from the **University of Chicago** (Mar 2025).
+
+I work on **scientific machine learning**, with a specific interest in **AI4Bio**. Currently, I am leading research on **reliable molecule generation**, supervised by Professor [Ruqi Zhang](https://ruqizhang.github.io/).
+
+Previously, I worked on **Uncertainty Quantification for Large Language Models**, advised by [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/). I also conducted research in **AI Safety for multi-agent systems** with Professor [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/index.html)'s lab at UCLA. Prior to UChicago, I graduated with a Bachelor’s degree (**magna cum laude**) in Data Science and Mathematics from **New York University**.
+
+I am applying for a **PhD in AI/ML** starting in 2026. Please feel free to reach out if you are interested in my research!
 
 **Contact:** yy2949 [at] uchicago [dot] edu
