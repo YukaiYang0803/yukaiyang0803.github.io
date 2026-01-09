@@ -37,12 +37,12 @@ I recently work on scientific machine learning, with a specific interest in AI4B
 
 <!-- **Contact:** yy2949 [at] uchicago [dot] edu -->
 
-Hi there! I am Yukai Yang. I am a researcher developing reliable and interpretable machine learning methods for AI for Biology, focusing on the intersection of representation learning and uncertainty quantification. I received my M.S. in Statistics from the **University of Chicago** (Mar 2025).
+Hi there! I am Yukai Yang. I am a researcher developing reliable and interpretable machine learning methods for AI for Biology, focusing on the intersection of representation learning and uncertainty quantification.
 
-I work on **scientific machine learning**, with a specific interest in **AI4Bio**. Currently, I am leading research on **reliable molecule generation**, supervised by Professor [Ruqi Zhang](https://ruqizhang.github.io/).
+I work on scientific machine learning, with a specific interest in AI4Bio. Currently, I am leading research on reliable molecule generation, supervised by Professor [Ruqi Zhang](https://ruqizhang.github.io/).
 
-Previously, I worked on **Uncertainty Quantification for Large Language Models**, advised by [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/). I also conducted research in **AI Safety for multi-agent systems** with Professor [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/index.html)'s lab at UCLA. Prior to UChicago, I graduated with a Bachelor’s degree (**magna cum laude**) in Data Science and Mathematics from **New York University**.
+Previously, I worked on Uncertainty Quantification for Large Language Models, advised by [Tim Rudner](https://timrudner.com/) and [Marco Morucci](https://marcomorucci.com/bio/). I also conducted research in AI Safety for multi-agent systems with Professor [Guang Cheng](http://www.stat.ucla.edu/~guangcheng/index.html)'s lab at UCLA. I received my M.S. in Statistics from the University of Chicago. Prior to that, I graduated with a Bachelor’s degree (magna cum laude) in Data Science and Mathematics from New York University.
 
-I am applying for a **PhD in AI/ML** starting in 2026. Please feel free to reach out if you are interested in my research!
+I am applying for a PhD in AI/ML starting in Fall 2026. Please feel free to reach out if you are interested in my research!
 
 **Contact:** yy2949 [at] uchicago [dot] edu
