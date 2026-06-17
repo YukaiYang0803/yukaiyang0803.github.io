@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint on [divide-and-conquer attacks for LLM agents](https://arxiv.org/abs/2606.09084) is available on arXiv.
+Our preprint "[Divide-and-Conquer Attacks on LLM Agents: Orchestrating Multi-Step Jailbreaks in Tool-Enabled Systems](https://arxiv.org/abs/2606.09084)" is available on arXiv.
